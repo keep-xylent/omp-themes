@@ -1,2 +1,2 @@
 # Preview
-<img src="image.png" width="70">
+<img src="image.png" width="300">
